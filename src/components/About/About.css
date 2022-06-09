@@ -1,0 +1,38 @@
+.about-area {
+	padding: 70px;
+}
+.about-title h1 {
+	text-align: center;
+	padding-bottom: 50px;
+	font-size: 50px;
+}
+.about-content h1 {
+	font-size: 50px;
+	font-weight: 500;
+	margin-bottom: 40px;
+}
+.about-content h1 span {
+	display: block;
+}
+.about-content p {
+	font-size: 20px;
+}
+.about-button {
+	padding: 40px 0;
+}
+.about-button a {
+	margin-right: 10px;
+	padding: 10px 20px;
+	background-color: aquamarine;
+	color: black;
+	border-radius: 40px;
+	transition: 0.5s;
+    text-decoration: none;
+}
+.about-image img {
+	width: 100%;
+}
+.about-area .row {
+	align-items: center;
+	justify-content: center;
+}
