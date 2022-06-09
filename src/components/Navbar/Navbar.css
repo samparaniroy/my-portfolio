@@ -1,0 +1,41 @@
+.navbar-area {
+	padding: 30px;
+	position: absolute;
+	overflow: hidden;
+	width: 100%;
+	z-index: 999;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+.menubar-area ul {
+	display: flex;
+    list-style: none;
+}
+.menubar-area ul li {
+	margin-right: 20px;
+}
+.menubar-area ul li a {
+	font-size: 20px;
+	text-decoration: none;
+	color: #fff;
+}
+.navbar-area .row {
+	align-items: center;
+	justify-content: center;
+}
+.logo-area h1 {
+	font-size: 35px;
+	padding-left: 20px;
+	color: #fff;
+}
+.navbar-area {
+	padding: 30px;
+	position: absolute;
+	overflow: hidden;
+	width: 100%;
+	z-index: 999;
+	top: 0;
+	left: 0;
+	right: 0;
+}

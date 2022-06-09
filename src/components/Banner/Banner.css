@@ -1,0 +1,44 @@
+.banner-area {
+	padding: 190px 0 90px 0;
+	text-align: center;
+	background: linear-gradient(to right, #53B2F9, #6B75FB, #8830FD, #8930FD);;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 1;
+}
+.banner-content h1 {
+	font-size: 60px;
+	font-weight: 700;
+	color: #fff;
+	padding-bottom: 30px;
+	line-height: 1;
+}
+.banner-content span {
+	font-size: 45px;
+	color: #fff;
+	font-weight: 500;
+}
+.banner-content h3 {
+	font-size: 80px;
+	color: #fff;
+	padding-top: 11px;
+	font-weight: 600;
+	line-height: 0.9;
+	text-shadow: 1px 6px #d3d3d3;
+}
+.banner-button {
+	padding: 40px;
+}
+.banner-button a {
+	margin-right: 10px;
+	padding: 10px 20px;
+	background: #fff;
+	color: black;
+	border-radius: 40px;
+	transition: 0.5s;
+    text-decoration: none;
+}
+.banner-button a:hover{
+    background-color: aqua;
+}
