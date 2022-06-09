@@ -1,6 +1,8 @@
 .product-content {
 	background: antiquewhite;
-    margin-bottom: 40px;
+	margin-bottom: 40px;
+	border-radius: 10px;
+	padding-bottom: 20px;
 }
 .product-content img {
 	width: 100%;
@@ -20,4 +22,13 @@
 .product-content p {
 	padding-left: 24px;
 	font-size: 20px;
+}
+.product-content a {
+	padding: 0 26px;
+}
+.product-content a button {
+	padding: 16px 100px;
+	border: none;
+	border-radius: 10px;
+	background: aquamarine;
 }

@@ -1,0 +1,36 @@
+.contact-area {
+	padding: 60px;
+	background: aliceblue;
+}
+.contact-title h1 {
+	text-align: center;
+	font-size: 46px;
+    padding-bottom: 40px;
+}
+.contact-image img {
+	width: 100%;
+}
+.contact-form form input {
+	width: 100%;
+	margin-bottom: 16px;
+	height: 48px;
+	padding: 0 15px;
+	border-radius: 10px;
+    border: 1px solid #0b114a;
+}
+.contact-form form textarea {
+    width: 100%;
+    margin-bottom: 16px;
+    height: 100px;
+    padding: 0 15px;
+    border-radius: 10px;
+    border: 1px solid #0b114a;
+}
+.form-area .submit-button {
+	background: #0b114a;
+	width: 100% !important;
+}
+.submit-button {
+	color: black;
+	font-size: 20px;
+}
