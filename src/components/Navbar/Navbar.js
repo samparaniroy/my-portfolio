@@ -3,16 +3,16 @@ import './Navbar.css'
 
 const Navbar = () => {
     return (
-        <div class="navbar-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-5">
-                        <div class="logo-area">
+        <div className="navbar-area">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-5">
+                        <div className="logo-area">
                             <h1>Sampa</h1>
                         </div>
                     </div>
-                    <div class="col-lg-7">
-                        <div class="menubar-area">
+                    <div className="col-lg-7">
+                        <div className="menubar-area">
                             <ul>
                                 <li><a href="#">Home</a></li>
                                 <li><a href="#">Contact</a></li>

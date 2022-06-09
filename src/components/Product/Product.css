@@ -1,0 +1,23 @@
+.product-content {
+	background: antiquewhite;
+    margin-bottom: 40px;
+}
+.product-content img {
+	width: 100%;
+	height: 357px;
+	padding: 20px;
+}
+.product-title h1 {
+	padding: 40px;
+	text-align: center;
+	font-size: 50px;
+	padding-bottom: 50px;
+}
+.product-content h1 {
+	padding: 16px 19px;
+	font-size: 40px;
+}
+.product-content p {
+	padding-left: 24px;
+	font-size: 20px;
+}
