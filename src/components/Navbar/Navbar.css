@@ -39,3 +39,27 @@
 	left: 0;
 	right: 0;
 }
+@media all and (max-width: 575px){
+	.menubar-area ul {
+		display: block;
+	}
+	.banner-content h1 {
+		font-size: 60px;
+		padding-top: 40px;
+	}
+	.about-area {
+		padding: 60px;
+	}
+	.about-title h1 {
+		font-size: 48px;
+	}
+	.about-area {
+		padding: 60px 0;
+	}
+	.contact-image img {
+		padding-bottom: 20px;
+	}
+	.contact-area {
+		padding: 60px 0;
+	}
+}
