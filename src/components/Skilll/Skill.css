@@ -1,0 +1,124 @@
+.skill-area {
+	padding: 60px;
+	background: whitesmoke;
+}
+.skill-title h1 {
+	font-size: 50px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.info h1 {
+	font-size: 30px;
+	padding-top: 15px;
+}
+.process {
+	width: 100%;
+	background: rgb(165, 159, 159);
+	border-radius: 10px;
+	margin: 18px 0;
+	height: 16px;
+}
+.process-bar-html {
+	height: 100%;
+	width: 90%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+	position: relative;
+	font-size: 13px;
+}
+.process-bar-html span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-css {
+	height: 100%;
+	width: 80%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-css span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-bootstrap {
+	height: 100%;
+	width: 85%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-bootstrap span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-tailwind {
+	height: 100%;
+	width: 70%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-tailwind span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-javascript {
+	height: 100%;
+	width: 80%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-javascript span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-reactjs {
+	height: 100%;
+	width: 75%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-reactjs span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-nodejs {
+	height: 100%;
+	width: 70%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-nodejs span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.process-bar-mongodb {
+	height: 100%;
+	width: 65%;
+	background: rgb(48, 198, 208);
+	border-radius: 9px;
+    position: relative;
+    font-size: 13px;
+}
+.process-bar-mongodb span {
+	position: absolute;
+	top: 0;
+	right: 0;
+}

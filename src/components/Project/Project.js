@@ -1,14 +1,14 @@
 import React from 'react';
-import './Product.css'
+import './Project.css'
 
-const Product = () => {
+const Project = () => {
     return (
         <div className="product-area">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="product-title">
-                            <h1>My Products</h1>
+                            <h1>My Project</h1>
                         </div>
                     </div>
                     <div className="col-lg-4">
@@ -65,4 +65,4 @@ const Product = () => {
     );
 };
 
-export default Product;
+export default Project;
