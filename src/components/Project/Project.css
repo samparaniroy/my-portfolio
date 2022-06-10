@@ -9,6 +9,9 @@
 	height: 357px;
 	padding: 20px;
 }
+.info {
+	padding-bottom: 20px;
+}
 .product-title h1 {
 	padding: 40px;
 	text-align: center;

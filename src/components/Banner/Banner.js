@@ -13,7 +13,7 @@ const Banner = () => {
                             <h3>2022</h3>
                             <div className="banner-button">
                                 <a href="#">Hire</a>
-                                <a href="https://drive.google.com/file/d/12f_5itqLKMjUToI3lcre4tHotSzu_3qt/view">Resume</a>
+                                <a href="https://drive.google.com/file/d/12f_5itqLKMjUToI3lcre4tHotSzu_3qt/view" terget="_blank">Resume</a>
                             </div>
                         </div>
                     </div>

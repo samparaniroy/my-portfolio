@@ -62,4 +62,7 @@
 	.contact-area {
 		padding: 60px 0;
 	}
+	.skill-area {
+		padding: 60px 0 !important;
+	}
 }
