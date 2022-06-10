@@ -32,11 +32,11 @@ const Contact = () => {
                     <div className="col-lg-6">
                       <div className="contact-form">
                         <form onSubmit={sendEmail}>
-                            <input type="text" name="" id="toName" placeholder='Name' />
+                            <input type="text" name="" placeholder='Name' />
                             <br/>
-                            <input type="text" id="fromName" placeholder='Enter from name' />
+                            <input type="text" placeholder='Enter from name' />
                             <br/>
-                            <textarea type="text" id="massage" placeholder='Enter Your Message' />
+                            <textarea type="text" placeholder='Enter Your Message' />
                             <br/>
                             <input className='submit-button' type="submit" value="Send Email" />
                         </form>
